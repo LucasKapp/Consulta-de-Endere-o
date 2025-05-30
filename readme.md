@@ -23,13 +23,6 @@ Sistema desenvolvido para consulta de endereços através de CEP, com interface 
 - Interface moderna com efeitos
 - Design responsivo para todos os dispositivos
 
-### 🐾 Seção de Animais
-
-- Exibição de imagens aleatórias de cães e gatos
-- Botões para alternar entre cães e gatos
-- Animações suaves na transição de imagens
-- Interface intuitiva e amigável
-
 ## 🛠️ Tecnologias Utilizadas
 
 - **Angular**: Framework principal
