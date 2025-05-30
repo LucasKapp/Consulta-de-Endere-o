@@ -44,7 +44,7 @@ Sistema desenvolvido para consulta de endereços através de CEP, com interface 
 1. Clone o repositório
 
 ```bash
-git clone https://github.com/ViniciusMoraesTavares/consulta-endereco.git
+git clone https://github.com/LucasKapp/consulta-endereco.git
 ```
 
 2. Instale as dependências
@@ -84,4 +84,3 @@ O projeto utiliza um design moderno com:
 - Paleta de cores harmoniosa
 - Tipografia moderna
 - Elementos interativos com feedback visual
-
